@@ -13,7 +13,6 @@ Hi, I'm @Raj Bharti
 - 🔭 I’m currently building **My Mitra** – your emotional AI mentor for students
 - 🌱 Learning: **Python**, **Flutter**, **AI & Robotics**, and cracking **JEE 2026**
 - 💡 Inspired by **Elon Musk** and **Tony Stark** – building for the future, not the hype
-- 🌍 Goal: Get into **NUS Singapore** and work with **xAI**
 - 🛠️ Building: **Offline AI IDEs**, **Emotional AI**, and **Robots that feel**
 
 ---
