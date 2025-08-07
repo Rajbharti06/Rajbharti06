@@ -31,6 +31,7 @@ Hi, I'm @Raj Bharti
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -44,10 +45,10 @@ Hi, I'm @Raj Bharti
 ### 📫 Let's Connect
 - 🌐 Website: [rajbharti.in](https://rajbharti.in)
 - 🐦 Twitter: [@rajbharti06](https://twitter.com/rajbharti06)
-- 📬 Mail: `contact@rajbharti.in`
+- 📬 Mail: `rajbharti006a@gmail.com`
 
 ---
 
 > “I’m not trying to be the next someone. I’m trying to be **Raj Bharti**, the first of his kind.”  
-> — Future Innovator
+ 
 
