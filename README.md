@@ -18,20 +18,20 @@ Hi, I'm @Raj Bharti
 ---
 
 ### 💼 Projects I’m Proud Of
-- 🧠 `My Mitra`: Offline AI mentor app for emotional wellness
-- 🤖 `Jarvis Coder`: A full local coding IDE with LLM support (like Cursor)
+ 
 - 🌐 `rajbharti.in`: My personal website and digital identity
 
 ---
 
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=flat&logo=raspberrypi)
 
 ---
 
