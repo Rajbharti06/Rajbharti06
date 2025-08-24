@@ -24,13 +24,13 @@ Hi, I'm @Raj Bharti
 ---
 
 ### 🚀 Tech Stack
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=flat&logo=raspberrypi)
 
 ---
