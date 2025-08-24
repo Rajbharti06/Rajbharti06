@@ -10,10 +10,10 @@ Hi, I'm @Raj Bharti
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently building **My Mitra** – your emotional AI mentor for students
-- 🌱 Learning: **Python**, **Flutter**, **AI & Robotics**, and cracking **JEE 2026**
-- 💡 Inspired by **Elon Musk** and **Tony Stark** – building for the future, not the hype
-- 🛠️ Building: **Offline AI IDEs**, **Emotional AI**, and **Robots that feel**
+- 🔭 I’m currently building **Myself**  
+- 🌱 Exploring **Cybersecurity**, **AI**, and **Robotics** with real-world projects  
+- 💡 Inspired by **Elon Musk** and **Tony Stark** – building for the future, not the hype  
+- 🛠️ Crafting: **Offline AI IDEs**, **Emotional AI**, and **Jarvis-like Systems**
 
 ---
 
@@ -35,20 +35,11 @@ Hi, I'm @Raj Bharti
 
 ---
 
-### 🌱 Currently Learning
-- 🔹 DSA & Competitive Programming
-- 🔹 Robotics with Arduino + Raspberry Pi
-- 🔹 Deployment, APIs, and Local AI Models
-
----
-
 ### 📫 Let's Connect
 - 🌐 Website: [rajbharti.in](https://rajbharti.in)
 - 🐦 Twitter: [@rajbharti06](https://twitter.com/rajbharti06)
-- 📬 Mail: `rajbharti006a@gmail.com`
 
 ---
 
-> “I’m not trying to be the next someone. I’m trying to be **Raj Bharti**, the first of his kind.”  
- 
+> “I’m not trying to be the next someone. I’m trying to be **Raj Bharti**, the first of his kind.”
 
