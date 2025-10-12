@@ -1,8 +1,8 @@
-Hi, I'm @Raj Bharti
+Hi, I am @Raj Bharti
 
  
  
-<h1 align="center">Hey 👋, I'm Raj Bharti</h1>
+<h1 align="center">Hey 👋, I am Raj Bharti</h1>
 <p align="center">
   🚀 Future Builder | 💻 Self-Taught Coder | 🧠 AI Dreamer | 🇮🇳 Bharat
 </p>
