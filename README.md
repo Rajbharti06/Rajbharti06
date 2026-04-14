@@ -1,70 +1,76 @@
 <h1 align="center">Hey 👋, I'm Raj Bharti</h1>
 
 <p align="center">
-  🚀 Future Builder · 💻 Self-Taught Coder · 🔐 Cybersecurity Student · 🛠️ Self-Learn Engineering Student Learning AI · 🇮🇳 Bharat
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Cybersecurity+Researcher;Building+Offline+AI+Systems;Privacy-First+Builder" />
+</p>
+
+<p align="center">
+  🚀 Builder · 💻 Self-Taught Engineer · 🔐 Cybersecurity · 🤖 AI Systems · 🇮🇳 India
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently building **myself**, one system at a time  
-- 🌱 Exploring **Cybersecurity**, **AI**, and **Robotics** through real-world projects  
-- 🤖 Dream: Build **Jarvis-like systems** and powerful offline AI tools for everyone  
-- 💡 Inspired by **Elon Musk** & **Tony Stark** — building for the future, not the hype  
-- 🧩 I love creating:  
-  - Offline AI IDEs  
-  - Emotional AI companions  
-  - Tools that help students build discipline, habits, and better lives  
+- 🔭 Building real systems, not just projects  
+- 🌱 Exploring **AI, Cybersecurity, and Systems Engineering**  
+- 🤖 Focused on **offline, privacy-first AI**  
+- 💡 Inspired by building things that actually work in the real world  
+
+🧩 I like creating:
+- Offline AI systems  
+- Emotional AI companions  
+- Tools that improve discipline, thinking, and daily life  
 
 ---
 
-### 💼 Projects I'm Proud Of
+### 💼 Selected Projects
 
-- 🌐 **rajbharti.in**  
-  My personal website and digital identity — my home on the internet.
+- 🤖 **My Mitra — Founder**  
+  Offline emotional AI system for habits, journaling, and personal support  
+  → Private, lightweight, human-centered  
 
-- 🤖 **My Mitra – Founder**  
-  An **emotional AI friend** that helps students create systems in life  
-  → Focused on habits, journaling, routines, and support, not just answers.
+- 🎤 **IntervAI — Founder**  
+  AI interview simulator with real-time feedback  
+  → Practical preparation, not theory  
 
-- 🎤 **IntervAI – Founder (Hackathon Project)**  
-  An **AI interview prep assistant**  
-  → Mock interviews, intelligent feedback, and practice for real-world questions.
+- 🧠 **The Orchestrator**  
+  Autonomous AI system that builds, tests, and verifies software  
+  → Multi-agent + self-healing architecture  
 
-- ☣️ **ApocalypseGPT – The Last Helpful AI After Civilization Collapsed (Hackathon Project)**  
-  *"When civilization crashed, one sarcastic AI remained. Helpful? Sometimes.  
-  Funny? Always.  
-  Alive? Well… my uptime is eternal."*  
-  → Built to showcase creativity, storytelling, and AI personality.
-
-- 🛠️ **Jarvis Coder – In Development**  
-  An **AI coding assistant** trying to become a true engineer’s sidekick  
-  → Aim: Help write, debug, and understand code like a real teammate.
+- 📊 **HireFlow AI**  
+  AI resume screener with hybrid scoring and explainable results  
+  → Works offline with local models  
 
 ---
 
 ### 🚀 Tech Stack
 
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=flat&logo=raspberrypi)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,linux,bash,docker,c,mysql" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
 
-- 🌐 Website: [rajbharti.in](https://rajbharti.in)  
-- 🐦 Twitter: [@rajbharti06](https://twitter.com/rajbharti06)  
-- 📸 Instagram: [@rajbharti.in](https://www.instagram.com/rajbharti.in/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajbharti06&theme=tokyonight" />
+</p>
 
 ---
 
-> “I’m not trying to be the next someone. I’m trying to be **Raj Bharti**, the first of his kind.”
+### 📫 Connect
 
+<p align="center">
+  <a href="https://rajbharti.in"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://twitter.com/rajbharti06"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/rajbharti.in"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I’m not trying to be the next someone. I’m building my own path."</i>
+</p>
