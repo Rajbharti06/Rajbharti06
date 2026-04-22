@@ -1,8 +1,7 @@
 <h1 align="center">Raj Bharti</h1>
 
 <p align="center">
-  <b>AI Engineer · Cybersecurity Engineer</b><br>
-  <b>Independent Researcher</b><br>
+  <b>AI & Cybersecurity Engineer · Independent Researcher</b><br>
   Building privacy-first, offline AI systems
 </p>
 
@@ -19,8 +18,8 @@
 
 I build systems that:
 - run **offline**
-- respect **privacy by default**
-- solve **real problems**
+- follow **privacy by default**
+- solve **real-world problems**
 
 ---
 
@@ -33,7 +32,7 @@ I build systems that:
 ### 🤖 My Mitra  
 Offline emotional AI system  
 - habits · journaling · routines  
-- fully private, no data leaves device  
+- fully private, on-device  
 
 </td>
 <td width="50%">
@@ -41,7 +40,7 @@ Offline emotional AI system
 ### 🎤 IntervAI  
 AI interview simulator  
 - real-time feedback  
-- voice + evaluation system  
+- voice + evaluation  
 
 </td>
 </tr>
@@ -80,5 +79,6 @@ AI resume screening system
 
 ```bash
 > building_offline_ai_systems = true
-> privacy_first_design       = true
-> real_world_execution       = always
+> privacy_by_default          = standard
+> real_world_execution        = priority
+> focus                       = AI × Cybersecurity × Systems
