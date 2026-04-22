@@ -18,8 +18,8 @@
 
 I build systems that:
 - run **offline**
-- respect **privacy by default**
-- solve **real problems**
+- follow **privacy by default**
+- solve **real-world problems**
 
 ---
 
@@ -32,7 +32,7 @@ I build systems that:
 ### 🤖 My Mitra  
 Offline emotional AI system  
 - habits · journaling · routines  
-- fully private, no data leaves device  
+- fully private, on-device  
 
 </td>
 <td width="50%">
@@ -40,7 +40,7 @@ Offline emotional AI system
 ### 🎤 IntervAI  
 AI interview simulator  
 - real-time feedback  
-- voice + evaluation system  
+- voice + evaluation  
 
 </td>
 </tr>
@@ -75,9 +75,25 @@ AI resume screening system
 
 ---
 
-## 🧭 Current Focus
+## 🌐 Connect
 
-```bash
-> building_offline_ai_systems = true
-> privacy_first_design       = true
-> real_world_execution       = always
+<p align="center">
+  <a href="https://rajbharti.in">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rajbharti06">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raj-bharti-b12ab2336">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/rajbharti06">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build systems. Not noise.</i>
+</p>
