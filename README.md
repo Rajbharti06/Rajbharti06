@@ -18,8 +18,8 @@
 
 I build systems that:
 - run **offline**
-- follow **privacy by default**
-- solve **real-world problems**
+- respect **privacy by default**
+- solve **real problems**
 
 ---
 
@@ -32,7 +32,7 @@ I build systems that:
 ### 🤖 My Mitra  
 Offline emotional AI system  
 - habits · journaling · routines  
-- fully private, on-device  
+- fully private, no data leaves device  
 
 </td>
 <td width="50%">
@@ -40,7 +40,7 @@ Offline emotional AI system
 ### 🎤 IntervAI  
 AI interview simulator  
 - real-time feedback  
-- voice + evaluation  
+- voice + evaluation system  
 
 </td>
 </tr>
@@ -79,6 +79,5 @@ AI resume screening system
 
 ```bash
 > building_offline_ai_systems = true
-> privacy_by_default          = standard
-> real_world_execution        = priority
-> focus                       = AI × Cybersecurity × Systems
+> privacy_first_design       = true
+> real_world_execution       = always
