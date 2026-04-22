@@ -1,67 +1,84 @@
- <h1 align="center">Hey 👋, I'm Raj Bharti</h1>
+<h1 align="center">Raj Bharti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Cybersecurity+Researcher;Building+Offline+AI+Systems;Privacy-First+Builder" />
+  <b>AI Engineer · Cybersecurity Engineer</b><br>
+  <b>Independent Researcher</b><br>
+  Building privacy-first, offline AI systems
 </p>
 
 <p align="center">
-  🚀 Builder · 💻 Self-Taught Engineer · 🔐 Cybersecurity · 🤖 AI Systems · 🇮🇳 India
-</p>
-
----
-
-### 🧠 About Me
-
-- 🔭 Building real systems, not just projects  
-- 🌱 Exploring **AI, Cybersecurity, and Systems Engineering**  
-- 🤖 Focused on **offline, privacy-first AI**  
-- 💡 Inspired by building things that actually work in the real world  
-
-🧩 I like creating:
-- Offline AI systems  
-- Emotional AI companions  
-- Tools that improve discipline, thinking, and daily life  
-
----
-
-### 💼 Selected Projects
-
-- 🤖 **My Mitra — Founder**  
-  Offline emotional AI system for habits, journaling, and personal support  
-  → Private, lightweight, human-centered  
-
-- 🎤 **IntervAI — Founder**  
-  AI interview simulator with real-time feedback  
-  → Practical preparation, not theory  
-
-- 🧠 **The Orchestrator**  
-  Autonomous AI system that builds, tests, and verifies software  
-  → Multi-agent + self-healing architecture  
-
-- 📊 **HireFlow AI**  
-  AI resume screener with hybrid scoring and explainable results  
-  → Works offline with local models  
-
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,linux,bash,docker,c,mysql" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Offline+AI+Systems;Human-Centered+Technology;Security+%2B+Intelligence;Build+→+Test+→+Ship" />
 </p>
 
 ---
 
-### 📫 Connect
+## ⛓️ Philosophy
+
+> Technology should not just be intelligent.  
+> It should be **secure, private, and human-aware**.
+
+I build systems that:
+- run **offline**
+- respect **privacy by default**
+- solve **real problems**
+
+---
+
+## ⚙️ What I’m Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 My Mitra  
+Offline emotional AI system  
+- habits · journaling · routines  
+- fully private, no data leaves device  
+
+</td>
+<td width="50%">
+
+### 🎤 IntervAI  
+AI interview simulator  
+- real-time feedback  
+- voice + evaluation system  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 The Orchestrator  
+Autonomous AI software builder  
+- multi-agent system  
+- self-healing + runtime validation  
+
+</td>
+<td width="50%">
+
+### 📊 HireFlow AI  
+AI resume screening system  
+- hybrid scoring (LLM + skills + embeddings)  
+- explainable + offline mode  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Stack
 
 <p align="center">
-  <a href="https://rajbharti.in"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://twitter.com/rajbharti06"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/rajbharti.in"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,html,css,linux,bash,docker,c,mysql" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"I’m not trying to be the next someone. I’m building my own path."</i>
-</p>
+## 🧭 Current Focus
+
+```bash
+> building_offline_ai_systems = true
+> privacy_first_design       = true
+> real_world_execution       = always
