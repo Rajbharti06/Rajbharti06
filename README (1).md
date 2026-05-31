@@ -28,7 +28,7 @@ I build systems that:
 
 | Paper | Venue | Date |
 |---|---|---|
-| [Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM)](https://zenodo.org) | **Under Peer Review — IEEE TIFS (IF: 6.8)** | Apr 2026 |
+| [Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM)](https://zenodo.org) | **Under Peer Review — IEEE  (IF: 6.8)** | Apr 2026 |
 | [Harvard University Data Breach: Identity-Centric Threats and MFA Failure](https://zenodo.org) | Zenodo — Open Access | Mar 2026 |
 | [Princeton University Data Breach: Cybersecurity Implications in Higher Education](https://zenodo.org) | Zenodo — Open Access | Mar 2026 |
 
