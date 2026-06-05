@@ -189,7 +189,7 @@ class RajBharti:
 
 **AI / ML & Security**
 
-```
+```python
 Ollama · Mistral · Qwen3 · Whisper ASR · HuggingFace · LangChain · Sentence Embeddings
 MITRE ATT&CK · STRIDE · Zero Trust · TryHackMe · Ethical Hacking · Network Security
 GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
