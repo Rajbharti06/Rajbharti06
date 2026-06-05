@@ -21,18 +21,18 @@
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Rajbharti06&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/Rajbharti06?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Rajbharti06?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&color=blueviolet&logo=github&logoColor=white&label=Followers)](https://github.com/Rajbharti06?tab=followers)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=36&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=700&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Independent+Researcher;Builder+%7C+Founder+%7C+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=900&height=80&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Independent+Researcher;Builder+%7C+Founder+%7C+Researcher" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Autonomous+SOC+Platforms;Offline+LLM+Inference+Systems;Identity+Security+%26+Threat+Modeling;Multi-Agent+AI+Pipelines;IEEE+TIFS+Researcher+%C2%B7+IF%3A+6.8;Build+%E2%86%92+Research+%E2%86%92+Ship" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Autonomous+SOC+Platforms;Offline+LLM+Inference+Systems;Identity+Security+%26+Threat+Modeling;Multi-Agent+AI+Pipelines;IEEE+TIFS+Researcher+%C2%B7+IF+6.8;Build+%E2%86%92+Research+%E2%86%92+Ship" />
 </div>
 
 <br/>
@@ -47,9 +47,6 @@
   <a href="https://twitter.com/rajbharti06">
     <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=38BDF8"/>
   </a>
-  <a href="mailto:Rajbharti006a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
-  </a>
 </div>
 
 ---
@@ -59,7 +56,7 @@
 ```python
 class RajBharti:
     role     = ["AI & Cybersecurity Engineer", "Independent Researcher", "Builder"]
-    location = "Ghazipur, UP, India"
+    location = "India"
     research = "IEEE TIFS — Under Peer Review (IF: 6.8)"
     papers   = 3     # 2 published on Zenodo · 1 under IEEE TIFS review
     projects = 9     # all shipped independently during gap year
@@ -200,16 +197,20 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=7B5EA7&text_color=c9d6e3&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbharti06&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d6e3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=7B5EA7&text_color=c9d6e3&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbharti06&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d6e3&langs_count=8" width="41%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7" />
+  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff&stroke=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Raj%20Bharti's%20Contribution%20Graph" width="95%" />
 </div>
 
 ---
@@ -217,7 +218,7 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" />
 </div>
 
 ---
