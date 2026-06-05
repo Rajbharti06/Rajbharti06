@@ -85,9 +85,9 @@ class RajBharti:
 
 | Paper | Venue | Status |
 |:---|:---|:---:|
-| [Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM)](https://zenodo.org) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Under Review |
-| [Harvard University Data Breach: Identity-Centric Threats and MFA Failure](https://zenodo.org) | Zenodo — Open Access | ✅ Published |
-| [Princeton University Data Breach: Cybersecurity Implications in Higher Education](https://zenodo.org) | Zenodo — Open Access | ✅ Published |
+| Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Under Review |
+| Harvard University Data Breach: Identity-Centric Threats and MFA Failure | Zenodo — Open Access | ✅ Published |
+| Princeton University Data Breach: Cybersecurity Implications in Higher Education | Zenodo — Open Access | ✅ Published |
 
 </div>
 
