@@ -16,6 +16,10 @@
   <img src="https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601" width="100%" alt="Raj Bharti" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2c35c80b-ceab-4f07-a3d9-df7c9aec791d" width="100%" alt="ARISE" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -73,7 +77,7 @@ class RajBharti:
         return "ARGUS · FirellySAT · The Orchestrator · IEEE TIFS"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
 
 ## 🔬 Research Publications
 
@@ -89,7 +93,7 @@ class RajBharti:
 
 > **Identity Exploitation Model (IEM)** — a probabilistic framework modeling compound breach likelihood across vishing → AiTM → MFA fatigue attack chains. Grounded in MITRE ATT\&CK and STRIDE.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
 
 ## ⚙️ What I'm Building
 
@@ -170,7 +174,7 @@ class RajBharti:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
 
 ## 🧠 Tech Stack
 
@@ -192,7 +196,7 @@ MITRE ATT&CK · STRIDE · Zero Trust · TryHackMe · Ethical Hacking · Network 
 GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
 
 ## 📊 GitHub Stats
 
@@ -228,6 +232,10 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rajbharti06/Rajbharti06/output/github-contribution-grid-snake-dark.svg" alt="🐍 Snake eating my contributions" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
 </div>
 
 ---
