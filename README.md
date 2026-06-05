@@ -197,20 +197,31 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=7B5EA7&text_color=c9d6e3&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbharti06&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d6e3&langs_count=8" width="41%" />
+
+  ![Stars](https://img.shields.io/github/stars/Rajbharti06?style=for-the-badge&logo=github&color=7B5EA7&labelColor=0d1117&label=Total+Stars)
+  ![Followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&logo=github&color=38BDF8&labelColor=0d1117&label=Followers)
+  ![Repos](https://img.shields.io/badge/Public_Repos-10+-7B5EA7?style=for-the-badge&logo=github&labelColor=0d1117)
+
+</div>
+
+<div align="center">
+
+  ![Papers](https://img.shields.io/badge/Research_Papers-3-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117)
+  ![Projects](https://img.shields.io/badge/Shipped_Projects-9-7B5EA7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)
+  ![IEEE](https://img.shields.io/badge/IEEE_TIFS-Under_Review-38BDF8?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff&stroke=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Raj%20Bharti's%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Contribution+Graph" width="95%" />
 </div>
 
 ---
@@ -218,7 +229,7 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
 ---
