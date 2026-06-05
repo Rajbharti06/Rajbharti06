@@ -1,23 +1,41 @@
-<!-- BANNER — upload your Solo Leveling image to your repo as assets/banner.png -->
-<div align="center">
-  <img src="./assets/banner.png" alt="Raj Bharti — Shadow Monarch" width="100%" />
-</div>
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  BANNER SETUP — ONE TIME ONLY, 30 SECONDS:                  ║
+  ║  1. Go to any GitHub repo → open a new Issue                ║
+  ║  2. Drag your Solo Leveling banner.png into the text box    ║
+  ║  3. GitHub generates a URL like:                            ║
+  ║     https://user-images.githubusercontent.com/xxxxx/...     ║
+  ║  4. Copy that URL                                           ║
+  ║  5. Cancel the issue (don't submit)                         ║
+  ║  6. Replace https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601 below with that URL             ║
+  ║  That's it. No files. No uploads. Permanent hosting.        ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-<!-- PROFILE VISITS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajbharti06&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&color=1a1a2e&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601" width="100%" alt="Raj Bharti" />
 </div>
 
 <br/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=38&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=700&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Independent+Researcher;Builder+%7C+Founder+%7C+Researcher" alt="Raj Bharti" />
-</h1>
+<div align="center">
 
-<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Rajbharti06&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/Rajbharti06?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Rajbharti06?tab=followers)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=36&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=700&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Independent+Researcher;Builder+%7C+Founder+%7C+Researcher" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Autonomous+SOC+Platforms;Offline+LLM+Inference+Systems;Identity+Security+%26+Threat+Modeling;Multi-Agent+AI+Pipelines;IEEE+TIFS+Researcher+%C2%B7+IF%3A+6.8;Build+%E2%86%92+Research+%E2%86%92+Ship" />
-</p>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://rajbharti.in">
@@ -34,8 +52,6 @@
   </a>
 </div>
 
-<br/>
-
 ---
 
 ## ⛓️ Philosophy
@@ -44,11 +60,11 @@
 class RajBharti:
     role     = ["AI & Cybersecurity Engineer", "Independent Researcher", "Builder"]
     location = "Ghazipur, UP, India"
-    research = "IEEE TIFS (Under Peer Review, IF: 6.8)"
-    papers   = 3   # 2 published on Zenodo, 1 under IEEE review
-    projects = 9   # all shipped independently
+    research = "IEEE TIFS — Under Peer Review (IF: 6.8)"
+    papers   = 3     # 2 published on Zenodo · 1 under IEEE TIFS review
+    projects = 9     # all shipped independently during gap year
 
-    def philosophy(self):
+    def philosophy(self) -> list:
         return [
             "run offline — zero data leaves the device",
             "privacy by design, not as an afterthought",
@@ -56,7 +72,7 @@ class RajBharti:
             "build systems that solve real problems",
         ]
 
-    def current_focus(self):
+    def current_focus(self) -> str:
         return "ARGUS · FirellySAT · The Orchestrator · IEEE TIFS"
 ```
 
@@ -68,7 +84,7 @@ class RajBharti:
 
 | Paper | Venue | Status |
 |:---|:---|:---:|
-| [Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM)](https://zenodo.org) | **IEEE Transactions on Information Forensics & Security** | 🔄 Under Review |
+| [Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM)](https://zenodo.org) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Under Review |
 | [Harvard University Data Breach: Identity-Centric Threats and MFA Failure](https://zenodo.org) | Zenodo — Open Access | ✅ Published |
 | [Princeton University Data Breach: Cybersecurity Implications in Higher Education](https://zenodo.org) | Zenodo — Open Access | ✅ Published |
 
@@ -80,12 +96,11 @@ class RajBharti:
 
 ## ⚙️ What I'm Building
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ ARGUS** — [github.com/Rajbharti06/ARGUS](https://github.com/Rajbharti06/ARGUS)
+**🛡️ ARGUS** &nbsp;[→](https://github.com/Rajbharti06/ARGUS)
 > Autonomous Cyber Defense Intelligence Platform
 - 7-module AI-powered SOC dashboard
 - VEIL (Qwen3.6-35B) · ORACLE (NVIDIA Nemotron 49B)
@@ -94,7 +109,7 @@ class RajBharti:
 </td>
 <td width="50%" valign="top">
 
-**🤖 My Mitra** — [github.com/Rajbharti06/My-Mitra](https://github.com/Rajbharti06/My-Mitra)
+**🤖 My Mitra** &nbsp;[→](https://github.com/Rajbharti06/My-Mitra)
 > Privacy-First Offline AI Companion
 - 100% on-device LLM inference (~120ms latency)
 - Habits · journaling · routines
@@ -105,35 +120,35 @@ class RajBharti:
 <tr>
 <td width="50%" valign="top">
 
-**📊 HireFlow AI** *(AGPL-3.0)* — [github.com/Rajbharti06/hireflow-ai](https://github.com/Rajbharti06/hireflow-ai)
+**📊 HireFlow AI** *(AGPL-3.0)* &nbsp;[→](https://github.com/Rajbharti06/hireflow-ai)
 > AI Resume Screener
 - Three-signal hybrid scoring: embeddings + skills + LLM
-- 100+ resumes in seconds · Fully offline mode
+- 100+ resumes in seconds · Fully offline
 
 </td>
 <td width="50%" valign="top">
 
-**🎤 IntervAI** — [github.com/Rajbharti06/IntervAI](https://github.com/Rajbharti06/IntervAI)
+**🎤 IntervAI** &nbsp;[→](https://github.com/Rajbharti06/IntervAI)
 > AI Interview Simulator
 - Real-time Whisper ASR pipeline (<2s latency)
-- LLM-driven question generation + rubric-based scoring
+- LLM-driven question generation + rubric scoring
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 The Orchestrator** — [github.com/Rajbharti06/The-Orchestrator](https://github.com/Rajbharti06/The-Orchestrator)
+**🧠 The Orchestrator** &nbsp;[→](https://github.com/Rajbharti06/The-Orchestrator)
 > Multi-Agent Deployment Pipeline
-- Prompt → fully deployed app in 5 stages
+- Prompt → deployed app in 5 stages
 - Provider-agnostic LLM routing + self-healing
 
 </td>
 <td width="50%" valign="top">
 
-**📚 FirellySAT** — [firelly.in](https://firelly.in)
+**📚 FirellySAT** &nbsp;[→](https://firelly.in)
 > AI-Powered SAT Prep Platform
-- Personalized question generation + adaptive difficulty
+- Personalized adaptive question generation
 - LLM-based concept explanations
 
 </td>
@@ -141,7 +156,7 @@ class RajBharti:
 <tr>
 <td width="50%" valign="top">
 
-**💻 Jarvis Coder** *(In Progress)* — [github.com/Rajbharti06/Jarvis-Coder](https://github.com/Rajbharti06/Jarvis-Coder)
+**💻 Jarvis Coder** *(In Progress)* &nbsp;[→](https://github.com/Rajbharti06/Jarvis-Coder)
 > Offline AI Coding Assistant
 - Monaco Editor + FastAPI + local LLMs
 - No GPU · No cloud · Low-resource hardware
@@ -157,7 +172,6 @@ class RajBharti:
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -174,7 +188,6 @@ class RajBharti:
 </p>
 
 **AI / ML & Security**
-<p align="center">
 
 ```
 Ollama · Mistral · Qwen3 · Whisper ASR · HuggingFace · LangChain · Sentence Embeddings
@@ -182,28 +195,26 @@ MITRE ATT&CK · STRIDE · Zero Trust · TryHackMe · Ethical Hacking · Network 
 GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ```
 
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=7B5EA7&text_color=c9d6e3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbharti06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d6e3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajbharti06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=7B5EA7&text_color=c9d6e3&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbharti06&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d6e3" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajbharti06&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" />
@@ -215,7 +226,7 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 
 <div align="center">
 
-→ **[rajbharti.in](https://rajbharti.in)** — portfolio, publications, and full project list
+→ **[rajbharti.in](https://rajbharti.in)** — portfolio, publications, full project list
 
 </div>
 
