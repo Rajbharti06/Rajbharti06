@@ -73,7 +73,7 @@ class RajBharti:
         return "ARGUS · FirellySAT · The Orchestrator · IEEE TIFS"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 🔬 Research Publications
 
@@ -89,7 +89,7 @@ class RajBharti:
 
 > **Identity Exploitation Model (IEM)** — a probabilistic framework modeling compound breach likelihood across vishing → AiTM → MFA fatigue attack chains. Grounded in MITRE ATT\&CK and STRIDE.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## ⚙️ What I'm Building
 
@@ -170,7 +170,7 @@ class RajBharti:
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 🧠 Tech Stack
 
@@ -192,7 +192,7 @@ MITRE ATT&CK · STRIDE · Zero Trust · TryHackMe · Ethical Hacking · Network 
 GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -224,13 +224,14 @@ GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Contribution+Graph" width="95%" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajbharti06&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://raw.githubusercontent.com/Rajbharti06/Rajbharti06/output/github-contribution-grid-snake-dark.svg" alt="🐍 Snake eating my contributions" />
 </div>
+
+---
+
 
 ---
 
