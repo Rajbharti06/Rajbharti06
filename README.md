@@ -60,9 +60,9 @@
 ```python
 class RajBharti:
     role     = ["AI & Cybersecurity Engineer", "Independent Researcher", "Builder"]
-    location = "India"
+    location = "Zagreb, Croatia"
     research = "IEEE TIFS — Under Peer Review (IF: 6.8)"
-    papers   = 3     # 2 published on Zenodo · 1 under IEEE TIFS review
+    papers   = 3     # 2 published on Zenodo · 1 submitted to IEEE TIFS ·  1 Under review In Elsevier S&T
     projects = 9     # all shipped independently during gap year
 
     def philosophy(self) -> list:
@@ -85,7 +85,7 @@ class RajBharti:
 
 | Paper | Venue | Status |
 |:---|:---|:---:|
-| Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Under Review |
+| Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Submitted |
 | [The Harvard University Data Breach: Identity-Centric Threats and the Failure of MFA in Modern Cybersecurity](https://zenodo.org/records/19344102) | Zenodo — Open Access | ✅ Published |
 | [Case Study: Princeton University Data Breach and Its Cybersecurity Implications in Higher Education](https://zenodo.org/records/19136388) | Zenodo — Open Access | ✅ Published |
 
