@@ -1,59 +1,28 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  BANNER SETUP — ONE TIME ONLY, 30 SECONDS:                  ║
-  ║  1. Go to any GitHub repo → open a new Issue                ║
-  ║  2. Drag your Solo Leveling banner.png into the text box    ║
-  ║  3. GitHub generates a URL like:                            ║
-  ║     https://user-images.githubusercontent.com/xxxxx/...     ║
-  ║  4. Copy that URL                                           ║
-  ║  5. Cancel the issue (don't submit)                         ║
-  ║  6. Replace https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601 below with that URL             ║
-  ║  That's it. No files. No uploads. Permanent hosting.        ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601" width="100%" alt="Raj Bharti" />
-</div>
-
-<div align="center">
   <img src="https://github.com/user-attachments/assets/2c35c80b-ceab-4f07-a3d9-df7c9aec791d" width="100%" alt="ARISE" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=900&height=70&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Autonomous+SOC+%C2%B7+Offline+LLMs+%C2%B7+Identity+Security" />
+</div>
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rajbharti06&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&color=blueviolet&logo=github&logoColor=white&label=Followers)](https://github.com/Rajbharti06?tab=followers)
-
+  <a href="https://rajbharti.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=7B5EA7" /></a>
+  <a href="https://www.linkedin.com/in/rajbharti-in"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+  <a href="https://orcid.org/0009-0000-8162-7611"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
+  <a href="https://x.com/RajBharti06"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9d6e3" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=900&height=80&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Independent+Researcher;Builder+%7C+Founder+%7C+Researcher" />
+  <b>Cybersecurity undergrad at RIT Croatia, Zagreb.</b><br/>
+  I build security and AI systems that run without sending your data anywhere,<br/>
+  and publish open research on how identity attacks actually succeed.
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Autonomous+SOC+Platforms;Offline+LLM+Inference+Systems;Identity+Security+%26+Threat+Modeling;Multi-Agent+AI+Pipelines;IEEE+TIFS+Researcher+%C2%B7+IF+6.8;Build+%E2%86%92+Research+%E2%86%92+Ship" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://rajbharti.in">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=38BDF8"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajbharti-in">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-  </a>
-  <a href="https://twitter.com/rajbharti06">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=38BDF8"/>
-  </a>
-</div>
-
----
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
 
 ## ⛓️ Philosophy
 
@@ -61,198 +30,194 @@
 class RajBharti:
     role     = ["AI & Cybersecurity Engineer", "Independent Researcher", "Builder"]
     location = "Zagreb, Croatia"
-    research = "IEEE TIFS — Under Peer Review (IF: 6.8)"
-    papers   = 3     # 2 published on Zenodo · 1 submitted to IEEE TIFS ·  1 Under review In Elsevier S&T
-    projects = 9     # all shipped independently during gap year
+    focus    = "identity security · offline inference · multi-agent systems"
 
-    def philosophy(self) -> list:
+    def principles(self) -> list:
         return [
-            "run offline — zero data leaves the device",
+            "run offline, zero data leaves the device",
             "privacy by design, not as an afterthought",
             "publish open research anyone can read",
-            "build systems that solve real problems",
+            "ship it, then prove it works",
         ]
 
-    def current_focus(self) -> str:
-        return "ARGUS · FirellySAT · The Orchestrator · IEEE TIFS"
+    def current(self) -> str:
+        return "ARGUS · FirellySAT · The Orchestrator"
 ```
 
-<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
 
-## 🔬 Research Publications
+## 🔬 Research
 
 <div align="center">
 
 | Paper | Venue | Status |
 |:---|:---|:---:|
-| Why Modern Authentication Is Failing — The Identity Exploitation Model (IEM) | **IEEE Transactions on Information Forensics & Security (TIFS)** | 🔄 Submitted |
-| [The Harvard University Data Breach: Identity-Centric Threats and the Failure of MFA in Modern Cybersecurity](https://zenodo.org/records/19344102) | Zenodo — Open Access | ✅ Published |
-| [Case Study: Princeton University Data Breach and Its Cybersecurity Implications in Higher Education](https://zenodo.org/records/19136388) | Zenodo — Open Access | ✅ Published |
+| **The Identity Exploitation Model** · quantifying compound breach risk in AiTM phishing campaigns | Computers & Security (Elsevier) | 🔄 Under review |
+| [The Harvard University Data Breach: Identity-Centric Threats and the Failure of MFA](https://zenodo.org/records/19344102) | Zenodo | 📄 Open access |
+| [Princeton University Data Breach and Its Cybersecurity Implications in Higher Education](https://zenodo.org/records/19136388) | Zenodo | 📄 Open access |
 
 </div>
 
-> **Identity Exploitation Model (IEM)** — a probabilistic framework modeling compound breach likelihood across vishing → AiTM → MFA fatigue attack chains. Grounded in MITRE ATT\&CK and STRIDE.
+> **The Identity Exploitation Model (IEM)** is a four-layer sequential framework that treats a breach as a chain rather than a set of independent failures. It computes end-to-end probability across Human Trust, Authentication, Interception and Privilege. Monte Carlo simulation over five documented university breaches puts FIDO2 migration at a 72% reduction in breach probability, against 15% for awareness training alone. Grounded in MITRE ATT&CK and STRIDE. ORCID [0009-0000-8162-7611](https://orcid.org/0009-0000-8162-7611).
 
-<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
 
-## ⚙️ What I'm Building
+## ⚙️ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ ARGUS** &nbsp;[→](https://github.com/Rajbharti06/ARGUS)
-> Autonomous Cyber Defense Intelligence Platform
-- 7-module AI-powered SOC dashboard
-- VEIL (Qwen3.6-35B) · ORACLE (NVIDIA Nemotron 49B)
-- Real telemetry · Live CVE/CISA KEV · Zero mock data
+### 🛡️ ARGUS &nbsp;[→](https://github.com/Rajbharti06/ARGUS)
+**Autonomous Cyber Defense Platform**
+
+Seven-module SOC dashboard. VEIL for phishing triage on Qwen3.6-35B-A3B, ORACLE for attack correlation on NVIDIA Nemotron 49B, IDENTITY for behavioral trust scoring.
+
+Live CVE and CISA KEV feeds, real host telemetry. No mock data anywhere in production endpoints.
+
+`Python` `FastAPI` `React 18` `WebSockets`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 My Mitra** &nbsp;[→](https://github.com/Rajbharti06/My-Mitra)
-> Privacy-First Offline AI Companion
-- 100% on-device LLM inference (~120ms latency)
-- Habits · journaling · routines
-- Zero external data transmission
+### 🤖 My Mitra &nbsp;[→](https://github.com/Rajbharti06/My-Mitra)
+**Privacy-First Offline AI Companion**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+100% on-device LLM inference at roughly 120ms latency on mid-range Android. Habits, journaling, routines, all stored locally.
 
-**📊 HireFlow AI** *(AGPL-3.0)* &nbsp;[→](https://github.com/Rajbharti06/hireflow-ai)
-> AI Resume Screener
-- Three-signal hybrid scoring: embeddings + skills + LLM
-- 100+ resumes in seconds · Fully offline
+Zero exfiltration by architecture, not by policy. Nothing is ever transmitted.
 
-</td>
-<td width="50%" valign="top">
-
-**🎤 IntervAI** &nbsp;[→](https://github.com/Rajbharti06/IntervAI)
-> AI Interview Simulator
-- Real-time Whisper ASR pipeline (<2s latency)
-- LLM-driven question generation + rubric scoring
+`Python` `FastAPI` `Ollama` `Mistral`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 The Orchestrator** &nbsp;[→](https://github.com/Rajbharti06/The-Orchestrator)
-> Multi-Agent Deployment Pipeline
-- Prompt → deployed app in 5 stages
-- Provider-agnostic LLM routing + self-healing
+### 🔒 ClaimGuard Vision &nbsp;[→](https://github.com/Rajbharti06/ClaimGuard-Vision)
+**Evidence-Based Claims Verification**
+
+Verifies insurance and delivery damage claims from images and conversation history. Deterministic guardrails override model hallucinations with hard business rules.
+
+Hardened against prompt injection hidden in images, with watermark detection to catch stock-photo fraud.
+
+`Python` `Vision LLMs` `Multi-Provider Failover`
 
 </td>
 <td width="50%" valign="top">
 
-**📚 FirellySAT** &nbsp;[→](https://firelly.in)
-> AI-Powered SAT Prep Platform
-- Personalized adaptive question generation
-- LLM-based concept explanations
+### 📊 HireFlow AI &nbsp;[→](https://github.com/Rajbharti06/hireflow-ai)
+**AI Resume Screener** · `AGPL-3.0`
+
+Three-signal hybrid scoring: sentence embeddings, skill-graph overlap, LLM reasoning. Ranks 100+ resumes in seconds with plain-English explanations.
+
+Zero-Cost Mode runs fully offline on a local model. No API key needed.
+
+`Python` `Streamlit` `Supabase`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**💻 Jarvis Coder** *(In Progress)* &nbsp;[→](https://github.com/Rajbharti06/Jarvis-Coder)
-> Offline AI Coding Assistant
-- Monaco Editor + FastAPI + local LLMs
-- No GPU · No cloud · Low-resource hardware
+### 🧠 The Orchestrator &nbsp;[→](https://github.com/Rajbharti06/The-Orchestrator)
+**Multi-Agent Deployment Pipeline**
+
+One prompt to a deployed application in five stages: intent parsing, task decomposition, code generation, verification, deployment.
+
+Provider-agnostic LLM routing with automatic bug fixing. Ships to Vercel, Railway or Render.
+
+`Python` `Multi-Agent LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-**🏆 HackerRank Orchestrate 2026**
-> **276th place globally**
-- Certificate of Excellence
-- AI Agent building & submission
+### 🩺 PulseLock AI &nbsp;[→](https://github.com/Rajbharti06/PulseLock-AI)
+**Always-On Access Firewall**
+
+Intercepts every request touching patient data, whether it comes from a human, a service or an AI agent, and makes a real-time allow or deny decision before execution.
+
+`JavaScript` `Zero Trust`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 IntervAI &nbsp;[→](https://github.com/Rajbharti06/IntervAI)
+**AI Interview Simulator**
+
+Real-time Whisper ASR under 2s latency. Detects hesitation, interrupts rambling, adapts tone to the interviewer personality you pick.
+
+Most people don't enjoy using it. That's the point.
+
+`Python` `Whisper` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 FirellySAT &nbsp;[→](https://firelly.in)
+**AI-Powered SAT Prep**
+
+Adaptive practice, LLM-generated study plans, progress analytics. Calm Mode adds breathing exercises and a distraction-free interface.
+
+Most prep platforms optimize for pressure. This one doesn't.
+
+`Next.js 15` `TypeScript` `Vercel`
 
 </td>
 </tr>
 </table>
 
-<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
+<details>
+<summary><b>More projects</b></summary>
 
-## 🧠 Tech Stack
+<br/>
 
-**CS50 Harvard Languages**
+| Project | What it does |
+|:---|:---|
+| [**SafeRoute**](https://github.com/Rajbharti06/SafeRoute) | Trust-aware AI support triage. Corpus-grounded routing with risk-aware escalation, self-verification and prompt-injection defense. 276th globally in HackerRank Orchestrate. |
+| [**SANJAYA Edge**](https://github.com/Rajbharti06/SANJAYA-EDGE) | AI road-safety copilot. Computer vision plus traffic-law context for real-time violation detection and multilingual alerts. |
+| [**LoanDoc Guardian**](https://github.com/Rajbharti06/LoanDoc-Guardian) | AI risk intelligence for syndicated loan documentation review. |
+| [**Jarvis Coder**](https://github.com/Rajbharti06/Jarvis-Coder) | Offline AI coding assistant. Monaco Editor and FastAPI with local inference, no GPU, no cloud. |
+| [**DRIFT**](https://github.com/Rajbharti06/DRIFT) | Daily cooperative word game on Reddit. Ten players relay a secret word through 3-word clues. The full chain reveals at midnight. |
+
+</details>
+
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
+
+## 🧰 Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,go,c,react,nextjs,fastapi,flutter,docker,linux,postgres,supabase&theme=dark" />
 </p>
 
-**Frameworks & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,flask,bash,linux,docker&theme=dark" />
-</p>
-
-**AI / ML & Security**
-
-```python
-Ollama · Mistral · Qwen3 · Whisper ASR · HuggingFace · LangChain · Sentence Embeddings
-MITRE ATT&CK · STRIDE · Zero Trust · TryHackMe · Ethical Hacking · Network Security
-GPT APIs · NVIDIA Nemotron · Featherless · psutil · Supabase · Vercel
+```
+AI / ML     Ollama · Mistral · Qwen3 · Whisper ASR · HuggingFace · LangChain · RAG · FAISS
+Security    MITRE ATT&CK · STRIDE · Threat Modeling · Zero Trust · OSINT · Prompt-Injection Defense
+Infra       Docker · Cloudflare R2 · Vercel · Railway · Render · WebSockets
 ```
 
-<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
   ![Stars](https://img.shields.io/github/stars/Rajbharti06?style=for-the-badge&logo=github&color=7B5EA7&labelColor=0d1117&label=Total+Stars)
   ![Followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&logo=github&color=38BDF8&labelColor=0d1117&label=Followers)
-  ![Repos](https://img.shields.io/badge/Public_Repos-10+-7B5EA7?style=for-the-badge&logo=github&labelColor=0d1117)
 
 </div>
-
-<div align="center">
-
-  ![Papers](https://img.shields.io/badge/Research_Papers-3-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117)
-  ![Projects](https://img.shields.io/badge/Shipped_Projects-9-7B5EA7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)
-  ![IEEE](https://img.shields.io/badge/IEEE_TIFS-Under_Review-38BDF8?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0d1117&ring=38BDF8&fire=7B5EA7&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=c9d6e3&sideNums=ffffff" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Contribution+Graph" width="95%" />
 </div>
 
-<br/>
+<img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rajbharti06/Rajbharti06/output/github-contribution-grid-snake-dark.svg" alt="🐍 Snake eating my contributions" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d6bca50b-ed39-4860-bb0b-77b5aea24998" width="100%" alt="shadow" />
-</div>
-
----
-
-
----
-
-## 📄 Resume & Portfolio
-
-<div align="center">
-
-→ **[rajbharti.in](https://rajbharti.in)** — portfolio, publications, full project list
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build+systems.+Publish+research.+Ship+things+that+matter.&fontSize=16&fontColor=38BDF8&animation=twinkling&fontAlignY=75" />
+  <h3>Build systems. Publish research. Ship things that matter.</h3>
+  <a href="https://rajbharti.in"><b>rajbharti.in</b></a>
+  <br/><br/>
+  <i>Portfolio · Publications · Full project list</i>
 </div>
