@@ -1,20 +1,15 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1bc1d554-3c63-40e6-a1c6-2261843ff601" width="100%" alt="Raj Bharti" />
-  <img src="https://github.com/user-attachments/assets/2c35c80b-ceab-4f07-a3d9-df7c9aec791d" width="100%" alt="ARISE" />
+  <img src="assets/hero.svg" width="100%" alt="Raj Bharti: AI and cybersecurity engineer, founder of Firelly" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=2800&pause=900&color=7B5EA7&center=true&vCenter=true&width=900&height=70&lines=Raj+Bharti;AI+%26+Cybersecurity+Engineer;Founder+of+Firelly;Autonomous+SOC+%C2%B7+Offline+LLMs+%C2%B7+Identity+Security" alt="Raj Bharti, AI and cybersecurity engineer" />
-</div>
-
-<div align="center">
-  <a href="https://rajbharti.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=7B5EA7" /></a>
-  <a href="https://www.firelly.in"><img src="https://img.shields.io/badge/Firelly-0d1117?style=for-the-badge&logo=lightning&logoColor=F5B83D" /></a>
-  <a href="https://www.linkedin.com/in/rajbharti-in"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-  <a href="https://orcid.org/0009-0000-8162-7611"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
-  <a href="https://x.com/RajBharti06"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9d6e3" /></a>
+  <a href="https://rajbharti.in"><img src="https://img.shields.io/badge/Portfolio-0c0b0a?style=for-the-badge&logo=googlechrome&logoColor=D9B45A" /></a>
+  <a href="https://www.firelly.in"><img src="https://img.shields.io/badge/Firelly-0c0b0a?style=for-the-badge&logo=lightning&logoColor=D9B45A" /></a>
+  <a href="https://www.linkedin.com/in/rajbharti-in"><img src="https://img.shields.io/badge/LinkedIn-0c0b0a?style=for-the-badge&logo=linkedin&logoColor=F2ECDF" /></a>
+  <a href="https://orcid.org/0009-0000-8162-7611"><img src="https://img.shields.io/badge/ORCID-0c0b0a?style=for-the-badge&logo=orcid&logoColor=F2ECDF" /></a>
+  <a href="https://x.com/RajBharti06"><img src="https://img.shields.io/badge/X-0c0b0a?style=for-the-badge&logo=x&logoColor=F2ECDF" /></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rajbharti06&label=PROFILE+VIEWS&color=7B5EA7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rajbharti06&label=PROFILE+VIEWS&color=d9b45a&style=flat-square" alt="Profile views" />
 </div>
 
 <br/>
@@ -28,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=700&color=38BDF8&multiline=true&repeat=false&width=620&height=190&lines=$+whoami;%3E+AI+%26+cybersecurity+engineer+%C2%B7+founder+of+Firelly;$+status+--now;%3E+shipping+Firelly%2C+ARGUS+and+Orchestrator+X;$+rank+--latest;%3E+%23948+of+4%2C094+%C2%B7+HackerRank+Orchestrate%2C+Oct+2026" alt="Terminal: whoami, status, latest rank" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=700&color=D9B45A&multiline=true&repeat=false&width=620&height=190&lines=$+whoami;%3E+AI+%26+cybersecurity+engineer+%C2%B7+founder+of+Firelly;$+status+--now;%3E+shipping+Firelly%2C+ARGUS+and+Orchestrator+X;$+rank+--latest;%3E+%23948+of+4%2C094+%C2%B7+HackerRank+Orchestrate%2C+Oct+2026" alt="Terminal: whoami, status, latest rank" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -264,16 +259,16 @@ Infra       Docker · Cloudflare R2 · Vercel · Railway · Render · WebSockets
 
 <div align="center">
 
-  ![Stars](https://img.shields.io/github/stars/Rajbharti06?style=for-the-badge&logo=github&color=7B5EA7&labelColor=0d1117&label=Total+Stars)
-  ![Followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&logo=github&color=38BDF8&labelColor=0d1117&label=Followers)
+  ![Stars](https://img.shields.io/github/stars/Rajbharti06?style=for-the-badge&logo=github&color=d9b45a&labelColor=0c0b0a&label=Total+Stars)
+  ![Followers](https://img.shields.io/github/followers/Rajbharti06?style=for-the-badge&logo=github&color=a59e92&labelColor=0c0b0a&label=Followers)
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0D1117&stroke=30363D&ring=7B5EA7&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E" width="70%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Rajbharti06&hide_border=true&background=0C0B0A&stroke=2A2620&ring=D9B45A&fire=E9C877&currStreakNum=F2ECDF&sideNums=F2ECDF&currStreakLabel=D9B45A&sideLabels=A59E92&dates=8A8378" width="70%" alt="GitHub streak" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0d1117&color=38BDF8&line=7B5EA7&point=ffffff&hide_border=true&area=true&area_color=7B5EA7&custom_title=Contribution+Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajbharti06&bg_color=0c0b0a&color=f2ecdf&line=d9b45a&point=f2ecdf&title_color=f2ecdf&hide_border=true&area=true&area_color=d9b45a&custom_title=Contribution+Graph" width="95%" />
 
   <br/><br/>
 
@@ -291,4 +286,4 @@ Infra       Docker · Cloudflare R2 · Vercel · Railway · Render · WebSockets
   <i>Portfolio · Publications · Full project list</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7B5EA7&height=130&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1b18,100:d9b45a&height=130&section=footer&animation=twinkling" width="100%" alt="" />
