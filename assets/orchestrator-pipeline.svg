@@ -1,69 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-  <rect x="0.5" y="0.5" width="899" height="189" rx="12" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="Orchestrator X pipeline: prompt, research, plan, architect, build, QA gates, deploy, then memory loops back to the start">
+  <rect x="0.5" y="0.5" width="899" height="189" rx="12" fill="#0c0b0a" stroke="#2a2620"/>
 
   <!-- wires -->
-  <line x1="62" y1="60" x2="830" y2="60" stroke="#30363d" stroke-width="1.5"/>
-  <path d="M 830 84 C 830 160 62 160 62 84" fill="none" stroke="#7B5EA7" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.8">
+  <line x1="62" y1="60" x2="830" y2="60" stroke="#2a2620" stroke-width="1.5"/>
+  <path d="M 830 84 C 830 160 62 160 62 84" fill="none" stroke="#d9b45a" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.7">
     <animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1s" repeatCount="indefinite"/>
   </path>
-  <text x="446" y="174" fill="#8b949e" font-size="10" text-anchor="middle">MEMORY · every run makes the next build smarter</text>
+  <text x="446" y="174" fill="#8a8378" font-size="10" text-anchor="middle">MEMORY · every run makes the next build smarter</text>
 
   <!-- packets travel the line, then loop back through memory -->
   <g>
-    <circle r="9" fill="#38BDF8" opacity="0.18"/><circle r="3.5" fill="#38BDF8"/>
+    <circle r="9" fill="#d9b45a" opacity="0.2"/><circle r="3.5" fill="#e9c877"/>
     <animateMotion dur="6s" begin="0s" repeatCount="indefinite" path="M 62 60 L 830 60 L 830 84 C 830 160 62 160 62 84 L 62 60"/>
   </g>
   <g>
-    <circle r="9" fill="#7B5EA7" opacity="0.25"/><circle r="3.5" fill="#a98be0"/>
+    <circle r="9" fill="#f2ecdf" opacity="0.14"/><circle r="3.5" fill="#f2ecdf"/>
     <animateMotion dur="6s" begin="2s" repeatCount="indefinite" path="M 62 60 L 830 60 L 830 84 C 830 160 62 160 62 84 L 62 60"/>
   </g>
   <g>
-    <circle r="9" fill="#38BDF8" opacity="0.18"/><circle r="3.5" fill="#38BDF8"/>
+    <circle r="9" fill="#d9b45a" opacity="0.2"/><circle r="3.5" fill="#e9c877"/>
     <animateMotion dur="6s" begin="4s" repeatCount="indefinite" path="M 62 60 L 830 60 L 830 84 C 830 160 62 160 62 84 L 62 60"/>
   </g>
 
   <!-- agents (drawn on top, so packets slip behind them) -->
   <g text-anchor="middle">
-    <rect x="10" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="0s" repeatCount="indefinite"/>
+    <rect x="10" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="0s" repeatCount="indefinite"/>
     </rect>
-    <text x="62" y="57" fill="#e6edf3" font-size="12" font-weight="700">YOU</text>
-    <text x="62" y="72" fill="#8b949e" font-size="8.5">one prompt</text>
+    <text x="62" y="57" fill="#f2ecdf" font-size="12" font-weight="700">YOU</text>
+    <text x="62" y="72" fill="#8a8378" font-size="8.5">one prompt</text>
 
-    <rect x="138" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="0.45s" repeatCount="indefinite"/>
+    <rect x="138" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="0.45s" repeatCount="indefinite"/>
     </rect>
-    <text x="190" y="57" fill="#e6edf3" font-size="12" font-weight="700">RESEARCH</text>
-    <text x="190" y="72" fill="#8b949e" font-size="8.5">stack + best practice</text>
+    <text x="190" y="57" fill="#f2ecdf" font-size="12" font-weight="700">RESEARCH</text>
+    <text x="190" y="72" fill="#8a8378" font-size="8.5">stack + best practice</text>
 
-    <rect x="266" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+    <rect x="266" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
     </rect>
-    <text x="318" y="57" fill="#e6edf3" font-size="12" font-weight="700">PLAN</text>
-    <text x="318" y="72" fill="#8b949e" font-size="8.5">phases + deps</text>
+    <text x="318" y="57" fill="#f2ecdf" font-size="12" font-weight="700">PLAN</text>
+    <text x="318" y="72" fill="#8a8378" font-size="8.5">phases + deps</text>
 
-    <rect x="394" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="1.34s" repeatCount="indefinite"/>
+    <rect x="394" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="1.34s" repeatCount="indefinite"/>
     </rect>
-    <text x="446" y="57" fill="#e6edf3" font-size="12" font-weight="700">ARCHITECT</text>
-    <text x="446" y="72" fill="#8b949e" font-size="8.5">files · API · schema</text>
+    <text x="446" y="57" fill="#f2ecdf" font-size="12" font-weight="700">ARCHITECT</text>
+    <text x="446" y="72" fill="#8a8378" font-size="8.5">files · API · schema</text>
 
-    <rect x="522" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="1.79s" repeatCount="indefinite"/>
+    <rect x="522" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="1.79s" repeatCount="indefinite"/>
     </rect>
-    <text x="574" y="57" fill="#e6edf3" font-size="12" font-weight="700">BUILD</text>
-    <text x="574" y="72" fill="#8b949e" font-size="8.5">backend ∥ frontend</text>
+    <text x="574" y="57" fill="#f2ecdf" font-size="12" font-weight="700">BUILD</text>
+    <text x="574" y="72" fill="#8a8378" font-size="8.5">backend ∥ frontend</text>
 
-    <rect x="650" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="2.24s" repeatCount="indefinite"/>
+    <rect x="650" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="2.24s" repeatCount="indefinite"/>
     </rect>
-    <text x="702" y="57" fill="#e6edf3" font-size="12" font-weight="700">QA GATES</text>
-    <text x="702" y="72" fill="#8b949e" font-size="8.5">OWASP · E2E · vitals</text>
+    <text x="702" y="57" fill="#f2ecdf" font-size="12" font-weight="700">QA GATES</text>
+    <text x="702" y="72" fill="#8a8378" font-size="8.5">OWASP · E2E · vitals</text>
 
-    <rect x="778" y="36" width="104" height="48" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="stroke" values="#38BDF8;#30363d;#30363d" keyTimes="0;0.35;1" dur="2s" begin="2.69s" repeatCount="indefinite"/>
+    <rect x="778" y="36" width="104" height="48" rx="9" fill="#0c0b0a" stroke="#2a2620" stroke-width="1.5">
+      <animate attributeName="stroke" values="#d9b45a;#2a2620;#2a2620" keyTimes="0;0.35;1" dur="2s" begin="2.69s" repeatCount="indefinite"/>
     </rect>
-    <text x="830" y="57" fill="#e6edf3" font-size="12" font-weight="700">DEPLOY</text>
-    <text x="830" y="72" fill="#8b949e" font-size="8.5">Vercel · Railway · Fly</text>
+    <text x="830" y="57" fill="#f2ecdf" font-size="12" font-weight="700">DEPLOY</text>
+    <text x="830" y="72" fill="#8a8378" font-size="8.5">Vercel · Railway · Fly</text>
   </g>
 </svg>
