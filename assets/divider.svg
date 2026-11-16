@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24">
   <defs>
     <linearGradient id="sweep" x1="0" x2="1">
-      <stop offset="0" stop-color="#7B5EA7" stop-opacity="0"/>
-      <stop offset="0.55" stop-color="#7B5EA7"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#d9b45a" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#e9c877"/>
+      <stop offset="1" stop-color="#f2ecdf" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <line x1="0" y1="12" x2="1000" y2="12" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="12" x2="1000" y2="12" stroke="#2a2620" stroke-width="1"/>
   <rect x="-260" y="11" width="260" height="2" rx="1" fill="url(#sweep)">
     <animate attributeName="x" from="-260" to="1000" dur="3.4s" repeatCount="indefinite"/>
   </rect>
-  <rect x="496" y="8" width="8" height="8" transform="rotate(45 500 12)" fill="#0d1117" stroke="#7B5EA7" stroke-width="1.5">
-    <animate attributeName="stroke" values="#7B5EA7;#38BDF8;#7B5EA7" dur="3.4s" repeatCount="indefinite"/>
+  <rect x="496" y="8" width="8" height="8" transform="rotate(45 500 12)" fill="#0c0b0a" stroke="#d9b45a" stroke-width="1.5">
+    <animate attributeName="stroke" values="#d9b45a;#f2ecdf;#d9b45a" dur="3.4s" repeatCount="indefinite"/>
   </rect>
 </svg>
